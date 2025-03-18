@@ -4,6 +4,8 @@
 
 ## Prerequisites
 
+## Deploy to Azure
+
 ## Description of this Solution
 
 ### Step by Step Guide
